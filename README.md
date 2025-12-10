@@ -1,133 +1,102 @@
-<!--
-  Profile README for: Harshitha S
-  How to use:
-    - Save as /README.md in the repo whose name equals your username (S-Harshitha006).
-    - Replace placeholder counts (e.g. Endorsements: 0) with real numbers or follow notes below to automate.
--->
+# Harshitha S — Software Engineer (AI · Full‑Stack)
 
-<!-- =============== HEADER / 3D SVG BANNER =============== -->
-<div align="center">
-
-<!-- Animated 3D-ish cube (SVG + simple animation) -->
-<figure>
-  <svg width="720" height="200" viewBox="0 0 720 200" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Harshitha S banner">
-    <defs>
-      <linearGradient id="g1" x1="0" x2="1">
-        <stop offset="0%" stop-color="#7c3aed"/>
-        <stop offset="50%" stop-color="#06b6d4"/>
-        <stop offset="100%" stop-color="#06d6a0"/>
-      </linearGradient>
-      <filter id="f1" x="-20%" y="-20%" width="140%" height="140%">
-        <feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#000" flood-opacity="0.15"/>
-      </filter>
-    </defs>
-
-    <!-- background gradient -->
-    <rect width="100%" height="100%" rx="16" fill="url(#g1)" opacity="0.11"/>
-
-    <!-- 3D-ish cube made from polygons -->
-    <g transform="translate(120,20)">
-      <g id="cube" filter="url(#f1)">
-        <!-- left face -->
-        <polygon id="left" points="0,40 60,0 60,60 0,100" fill="#ffffff" fill-opacity="0.08"/>
-        <!-- right face -->
-        <polygon id="right" points="60,0 120,40 120,100 60,60" fill="#ffffff" fill-opacity="0.06"/>
-        <!-- top face -->
-        <polygon id="top" points="0,40 60,0 120,40 60,80" fill="#ffffff" fill-opacity="0.12"/>
-        <!-- inner highlight lines -->
-        <polyline points="10,50 60,20 110,50" stroke="#fff" stroke-opacity="0.06" stroke-width="2" fill="none"/>
-      </g>
-
-      <!-- text block -->
-      <g transform="translate(180,20)">
-        <text x="0" y="26" font-family="Segoe UI, Roboto, Arial" font-size="20" fill="#0f172a" font-weight="700">Harshitha S</text>
-        <text x="0" y="52" font-family="Segoe UI, Roboto, Arial" font-size="14" fill="#0f172a" opacity="0.8">3rd Year B.E. CSE • AI & Full-Stack Enthusiast</text>
-        <text x="0" y="76" font-family="Segoe UI, Roboto, Arial" font-size="12" fill="#0f172a" opacity="0.7">Python • JavaScript • React • Machine Learning • Cloud</text>
-      </g>
-    </g>
-
-    <!-- subtle animation via SMIL (works in most modern GitHub READMEs) -->
-    <animateTransform xlink:href="#cube" attributeName="transform" type="rotate"
-                      from="0 60 50" to="360 60 50" dur="18s" repeatCount="indefinite"/>
-  </svg>
-</figure>
-
-</div>
-
----
-
-# 👋 Hi, I'm Harshitha S
-**3rd Year B.E. — Computer Science & Engineering**  
-Aspiring full-stack & AI engineer who loves building intuitive web apps and ML prototypes.
-
----
-
-## 🔭 I build
-- AI/ML prototypes and data visualizations (Streamlit / Python)  
-- Interactive frontends (React, TypeScript, Tailwind)  
-- Small full-stack apps (Node/Express + MongoDB / MySQL)
-
----
-
-## 🛠️ Tools & Technologies
-**Languages:** Python · Java · JavaScript · TypeScript · C  
-**Web:** HTML · CSS · React · Node.js · Express  
-**Data/ML:** Pandas · scikit-learn · TensorFlow (basic) · NLP  
-**Other:** Git · Docker · Postman · MongoDB · MySQL
-
----
-
-## 🚀 Featured Projects
-(Click to open the repo from your profile.)
-
-- **ibm-ai-meme-and-poster-creator** — AI-powered meme & poster generator (Streamlit + OpenAI / vision pipelines)  
-- **indiatrip-virtual-guide** — Interactive travel site with virtual tours (TypeScript + React)  
-- **obfuscated-code-banner** — Creative Python LinkedIn banner generator  
-- **Data-Exploration-and-Visualization** — EDA notebooks & visualization templates
-
----
-
-## 📈 GitHub Highlights
-<!-- GitHub readme stats: replace username if needed -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Harshitha006&show_icons=true&theme=radical" alt="Harshitha's GitHub stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Harshitha006&layout=compact&theme=radical" alt="Top languages" />
-</div>
-
----
-
-## 🔗 LinkedIn & Professional Snapshot
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/harshitha-s-295612339)
-
-**LinkedIn snapshot (how to show endorsements / recommendations):**
-
-> LinkedIn does not provide a simple public badge for endorsement counts. Below are safe, professional options you can use — choose one:
-
-**Option A — Manual (recommended)**  
-Add the real counts you see in LinkedIn. Example:
-
-- 🔹 **Top skills / endorsements:** Python (12), JavaScript (9), React (7)  
-- 🔹 **Recommendations:** 2
-
-(Replace numbers above with your live numbers — they display as plain text and are honest.)
-
-**Option B — Automated / Advanced (NOT recommended without permission)**  
-You could generate a small script or GitHub Action to fetch profile data, but scraping LinkedIn is against LinkedIn TOS. If you have LinkedIn API access or a workplace license, you can safely fetch counts and write them into the README through a GitHub Action.
+[![Gmail](https://img.shields.io/badge/Email-harshithas.2023.cse@ritchennai.edu.in-red?logo=gmail&style=for-the-badge)](mailto:harshithas.2023.cse@ritchennai.edu.in)
+[![Website](https://img.shields.io/badge/Portfolio-Website-gray?logo=google-chrome&style=for-the-badge)](https://github.com/S-Harshitha006)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=for-the-badge)]()
 
 ---
 
-## ⭐ Profile Highlights
-- Shortlisted for **Goldman Sachs Engineering Campus (2025)**  
-- Internships & certifications in **AI & Cloud** (AICTE / Edunet Foundation)  
-- Active portfolio of web and ML projects
+Hi — I'm Harshitha, a 3rd year B.E. Computer Science & Engineering student with a focus on AI and full‑stack development. I enjoy building polished frontends, reliable backends, and quick ML prototypes that communicate insights clearly.
+
+- Location: India  
+- Current focus: Practical ML prototypes, React + TypeScript frontends, and production-ready small full-stack applications.
 
 ---
 
-## 📫 Connect
+## Professional summary
+I build end-to-end solutions—designing interfaces, implementing APIs, and applying machine learning where it provides value. I favor readable code, modular components, and simple, testable architectures. I contribute to projects spanning data visualization, web apps, and creative tooling.
+
+---
+
+## Interactive Tech Logos
+Click any logo to learn more about the technology.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://react.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)](https://www.tensorflow.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)
+
+---
+
+## Core skills
+
+- Languages: Python • Java • JavaScript • TypeScript • C  
+- Frontend: React • TypeScript • Tailwind CSS • responsive design  
+- Backend & Databases: Node.js • Express • MongoDB • MySQL • REST APIs  
+- Data & ML: Pandas • scikit-learn • TensorFlow (practical usage) • NLP foundations  
+- Tools: Git • Docker • Postman • CI/CD basics
+
+---
+
+## Selected projects
+
+- ibm-ai-meme-and-poster-creator — AI-powered meme & poster generator (Streamlit + OpenAI / vision pipelines)  
+  https://github.com/S-Harshitha006/ibm-ai-meme-and-poster-creator
+
+- indiatrip-virtual-guide — Interactive travel guide with virtual tours (TypeScript + React)  
+  https://github.com/S-Harshitha006/indiatrip-virtual-guide
+
+- obfuscated-code-banner — Creative Python LinkedIn banner generator  
+  https://github.com/S-Harshitha006/obfuscated-code-banner
+
+- Data-Exploration-and-Visualization — EDA notebooks & visualization templates  
+  https://github.com/S-Harshitha006/Data-Exploration-and-Visualization
+
+(Click the project names to open the repos.)
+
+---
+
+## GitHub highlights
+<div align="center">
+  <a href="https://github.com/S-Harshitha006">
+    <img src="https://github-readme-stats.vercel.app/api?username=S-Harshitha006&show_icons=true&theme=radical" alt="GitHub stats for Harshitha" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/S-Harshitha006">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Harshitha006&layout=compact&theme=radical" alt="Top languages" />
+  </a>
+</div>
+
+---
+
+## Experience & recognitions
+- Shortlisted for Goldman Sachs Engineering Campus (2025)  
+- Internships & certifications in AI & Cloud (AICTE / Edunet Foundation)  
+- Hands-on project experience in ML prototyping and full-stack development
+
+---
+
+## How to work with me
+- I welcome collaboration on open-source projects and small product ideas.  
+- If you'd like to discuss an internship, mentorship, or a collaboration, please reach out via LinkedIn or email.
+
+---
+
+## Contact
 - LinkedIn: https://linkedin.com/in/harshitha-s-295612339  
 - Email: harshithas.2023.cse@ritchennai.edu.in  
 - GitHub: https://github.com/S-Harshitha006
 
+---
+
+Thank you for visiting my profile — feel free to explore my pinned repositories and open an issue or PR if you'd like to collaborate.
+
+<!-- End of README -->
 
 
