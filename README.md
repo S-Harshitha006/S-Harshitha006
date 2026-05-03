@@ -1,71 +1,49 @@
 # Harshitha S
 
-CSE Undergraduate | Machine Learning & Systems
+Machine Learning • Systems • Networking
 
 ---
 
 ## About
 
-Computer Science undergraduate focused on building data-driven systems at the intersection of machine learning and networked infrastructure.
+Computer Science undergraduate working on data-driven systems at the intersection of machine learning and networked infrastructure.
 
-Experience includes developing ML-based anomaly detection for network traffic, implementing routing analysis tools, and designing NLP pipelines for structured information extraction.
+Experience includes building ML-based anomaly detection systems for network traffic, implementing routing analysis tools, and developing NLP pipelines for structured data extraction.
 
-Interested in solving real-world problems involving large-scale data, system reliability, and intelligent automation.
+Focused on system reliability, large-scale data analysis, and practical engineering solutions.
 
 ---
 
-## Technical Skills
+## Core Areas
 
-**Languages**
-Python • Java • C • C++ • JavaScript
-
-**Machine Learning**
-Supervised Learning • Feature Engineering • Model Evaluation • Data Preprocessing
-
-**Systems & Networking**
-TCP/IP • Routing • Network Analysis • Operating Systems
-
-**Backend & Tools**
-Node.js • Express • REST APIs • Docker • Git
-
-**Databases**
-MySQL • MongoDB
+Machine Learning for Systems • Network Analysis • Applied NLP • Data Processing
 
 ---
 
 ## Selected Work
 
 **Network Traffic Monitoring & Anomaly Detection**
-ML-based system to detect abnormal network behavior using feature engineering and model evaluation techniques
-🔗 https://github.com/S-Harshitha006/network-monitor-ml
+ML pipeline for detecting anomalous network behavior using feature engineering and model evaluation
+https://github.com/S-Harshitha006/network-monitor-ml
 
 **Visual Traceroute (Java)**
-Tool to analyze packet routing paths and network latency behavior
-🔗 https://github.com/S-Harshitha006/VisualTracerouteJava
+Traceroute-based system for analyzing packet routes and latency across hops
+https://github.com/S-Harshitha006/VisualTracerouteJava
 
 **DNA Encoding Flow System**
-Algorithmic approach to encode digital data into DNA-inspired sequences
-🔗 https://github.com/S-Harshitha006/dna-encode-flow
+Algorithmic system for encoding digital data into DNA-inspired sequences
+https://github.com/S-Harshitha006/dna-encode-flow
 
 ---
 
 ## Experience
 
-**Software Development Intern (Research-Oriented)**
+**Software Development Intern**
 National Informatics Centre (NIC), Government of India
 
 * Built ML-based network anomaly detection system
-* Performed large-scale log analysis and feature extraction
-* Worked on system-level reliability and security use cases
-
----
-
-## Research Interests
-
-Machine Learning for Systems
-Network Security & Anomaly Detection
-Applied NLP
-Data-Driven Infrastructure
+* Performed large-scale log analysis and feature engineering
+* Worked on system reliability and security-focused use cases
 
 ---
 
@@ -74,5 +52,6 @@ Data-Driven Infrastructure
 LinkedIn: https://linkedin.com/in/harshitha-s-295612339
 GitHub: https://github.com/S-Harshitha006
 Email: [harshithas.2023.cse@ritchennai.edu.in](mailto:harshithas.2023.cse@ritchennai.edu.in)
+
 
 
