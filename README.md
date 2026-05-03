@@ -92,5 +92,7 @@ Machine Learning for Systems • Network Security • Applied NLP • Data Infra
 ## Contact
 
 linkedin.com/in/harshitha-s-295612339
+
 github.com/S-Harshitha006
+
 [harshithas.2023.cse@ritchennai.edu.in](mailto:harshithas.2023.cse@ritchennai.edu.in)
